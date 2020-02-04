@@ -141,7 +141,7 @@ table {margin: .5em auto 1.5em auto; width: 98%;}
 	tfoot td {}
 
 /* HTML5 tags */
-header, section, footer,
+header, section,
 aside, nav, article, figure {
 	display: block;
 }

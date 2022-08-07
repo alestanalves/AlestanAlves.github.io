@@ -13,7 +13,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(Doubs.png);
+  background-color: black;
   background-repeat: no-repeat;
   background-size: cover;
 }
